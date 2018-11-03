@@ -1,4 +1,4 @@
-#Serialization-Exercise
+Serialization-Exercise
 
 Task
 Add Funcionality to classes used in an existing comuter game. The classes are:
