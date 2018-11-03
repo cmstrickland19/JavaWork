@@ -1,6 +1,6 @@
 # Serialization-Exercise
 
-# # Task
+# #Task
 Add Funcionality to classes used in an existing comuter game. The classes are:
   Player-has int heathPoints and String name
   HealthPack-has an int that sores health packs and the methds:
